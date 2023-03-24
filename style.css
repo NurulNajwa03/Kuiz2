@@ -1,11 +1,12 @@
 body{
-    background-image: -o-linear-gradient(blue , gray);
+    background-image:linear-gradient(blue , gray);
     text-align: center;
 }
 h1{
     color: rgb(202, 117, 117);
     text-align: center;
     font-size: x-large;
+    font-family: cursive;
 }
 img{
     align-items: center;
