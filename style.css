@@ -1,5 +1,5 @@
 body{
-    background-image:linear-gradient(blue , gray);
+    background-image: linear-gradient(blue,grey);
     text-align: center;
 }
 h1{
@@ -7,7 +7,4 @@ h1{
     text-align: center;
     font-size: x-large;
     font-family: cursive;
-}
-img{
-    align-items: center;
 }
